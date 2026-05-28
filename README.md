@@ -33,7 +33,7 @@ Looking for the CLI version? → [snag-cli](https://github.com/Verifieddanny/sna
 ## 📸 Preview
 
 <div align="center">
-<img src="https://github.com/Verifieddanny/snag-desktop/assets/preview.png" alt="Snag Desktop Preview" width="600"/>
+<img src="https://raw.githubusercontent.com/Verifieddanny/snag-desktop/refs/heads/main/assets/preview.png" alt="Snag Desktop Preview" width="600"/>
 </div>
 
 ---
